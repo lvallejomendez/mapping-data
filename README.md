@@ -1,2 +1,2 @@
 # mapping-data
-Coursera Lesson 2: Mapping Data to Python
+Coursera. Scripting with Python and SQL for Data Engineering: Week 1
